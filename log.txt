@@ -1,0 +1,149 @@
+07-26 13:43:32.710 I/ActivityManager(  581): Start proc com.routon.iptv for activity com.routon.iptv/.MainActivity: pid=3618 uid=10067 gids={50067, 3003, 1028, 1015, 1023}
+07-26 13:43:32.910 I/ActivityThread( 3618): Switching default density from 240 to 160
+07-26 13:43:32.940 I/lilizhang( 3618): resolutionRatio 1080p
+07-26 13:43:32.940 D/IptvApplication( 3618): createshell, true
+07-26 13:43:32.960 I/dalvikvm-heap( 3618): Grow heap (frag case) to 2.822MB for 1670548-byte allocation
+07-26 13:43:33.000 I/dalvikvm-heap( 3618): Grow heap (frag case) to 8.728MB for 7863948-byte allocation
+07-26 13:43:33.160 I/dalvikvm-heap( 3618): Grow heap (frag case) to 6.765MB for 5805320-byte allocation
+07-26 13:43:33.290 D/IptvApplication( 3618): password is369258
+07-26 13:43:33.290 I/IptvApplication( 3618): stbid00100499007032100000000D364E76D3
+07-26 13:43:33.290 I/IptvApplication( 3618): come to onCreate iptvApplication 12false 19
+07-26 13:43:33.470 V/webkitaaa( 3618):   aaaa onload init ***********
+07-26 13:43:33.470 V/WebCoreThread( 3618): WebCoreThread init 
+07-26 13:43:33.600 D/TextLayoutCache( 3618): Using debug level = 0 - Debug Enabled = 0
+07-26 13:43:33.600 V/jl chrome( 3618):     AutofillProfile::CreateInferredLabels 
+07-26 13:43:33.600 V/jl chrome( 3618):     AutofillProfile::CreateInferredLabels [0]
+07-26 13:43:33.610 V/jl chrome( 3618):     AutofillProfile::ConstructInferredLabel  
+07-26 13:43:33.610 V/jl chrome( 3618):     AutofillProfile::ConstructInferredLabel  0 
+07-26 13:43:33.610 V/jl chrome( 3618):     AutofillProfile::ConstructInferredLabel  1 
+07-26 13:43:33.610 V/jl chrome( 3618):     AutofillProfile::CreateInferredLabels [0]
+07-26 13:43:33.610 V/jl chrome( 3618):     AutofillProfile::CreateInferredLabels end 
+07-26 13:43:33.640 I/IptvApplication( 3618): getIp is 10.163.13.199
+07-26 13:43:33.640 I/wukai   ( 3618): initwebview10.163.13.199
+07-26 13:43:33.640 W/NULL_TAG( 3618): libroutoniptv_jni build 16:39:58, Apr 24 2016
+07-26 13:43:33.640 V/MyMediaPlayer( 3618): call nativeinitplaye111r
+07-26 13:43:33.640 W/NULL_TAG( 3618): nativeinitplayer********* 
+07-26 13:43:33.650 W/NULL_TAG( 3618): nativesetInternetFlag :1 
+07-26 13:43:33.650 I/MediaPlayerInterface( 3618): setOnPlayTyepChangeListener(listener)...listener=com.routon.iptv.MainActivity$4@422e66c8
+07-26 13:43:33.650 V/ setPageZoomFactor( 3618):   2.0 1.36
+07-26 13:43:33.650 W/WebViewCore ZOOM( 3618): xzoomfactor:2.0yzoomfactor:1.36
+07-26 13:43:33.650 D/webcoreglue( 3618): WebCoreFrameBridge xzoomfactor:2.000000,yzoomfactor 1.360000
+07-26 13:43:33.680 V/tv_live ( 3618): index = ================1
+07-26 13:43:33.680 V/tv_live ( 3618): index = ================2
+07-26 13:43:33.680 V/tv_live ( 3618): index = 0
+07-26 13:43:33.690 I/dalvikvm-heap( 3618): Grow heap (frag case) to 5.593MB for 3686416-byte allocation
+07-26 13:43:33.760 I/imageurl( 3618): imageurl 1--->/hdisk/etc/routon_ad/4294_1467772762865.jpg
+07-26 13:43:33.760 V/WebViewActivity( 3618): startiptv usetrue
+07-26 13:43:33.770 W/ContextImpl( 3618): Implicit intents with startService are not safe: Intent { act=com.routon.noticeservice.IRemoteService (has extras) } android.content.ContextWrapper.startService:494 com.routon.iptv.MainActivity.startiptvservice:511 com.routon.iptv.MainActivity.onCreate:231 
+07-26 13:43:33.770 I/wukai   ( 3618): MainActivity runnable0
+07-26 13:43:33.770 V/WebViewActivity( 3618): activity oncreate end
+07-26 13:43:33.770 I/wukai   ( 3618): onResume webview_______
+07-26 13:43:33.780 I/wukai   ( 3618): out type:12,res:4 stamp:1469511813775msgstamp: 1469511813775
+07-26 13:43:33.820 D/libEGL  ( 3618): loaded /system/lib/egl/libGLES_mali.so
+07-26 13:43:33.830 D/OpenGLRenderer( 3618): Enabling debug mode 0
+07-26 13:43:33.830 I/webviewcore( 3618): requestFocus2 false falsenull
+07-26 13:43:33.830 D/webview ( 3618): onFocusChanged { focused =true}
+07-26 13:43:33.830 I/webviewcore( 3618): requestFocus2
+07-26 13:43:33.850 D/webcore ( 3618): SET_ACTIVE
+07-26 13:43:33.860 W/NULL_TAG( 3618): m_useFixedLayout? 0 visibleWidth:  320,  m_fixedLayoutSize.width:0
+07-26 13:43:33.860 W/NULL_TAG( 3618): m_useFixedLayout? 0 visibleWidth:  320,  m_fixedLayoutSize.width:0
+07-26 13:43:33.860 W/NULL_TAG( 3618): m_useFixedLayout? 0 visibleWidth:  320,  m_fixedLayoutSize.width:0
+07-26 13:43:34.780 I/WebViewActivity( 3618): 580 webviewloadpage com.routon.iptv.MainActivity@41c1a258
+07-26 13:43:34.780 I/WebViewActivity( 3618): playshiftDialog(show)...show=false
+07-26 13:43:34.830 I/igmpcheck( 3618): =========igmp wait=========
+07-26 13:43:34.910 I/igmpcheck( 3618): =========igmp over=========
+07-26 13:43:34.910 I/igmpcheck( 3618): ==============we can igmp========
+07-26 13:43:35.000 I/IptvApplication( 3618): getSTBID00100499007032100000000D364E76D3
+07-26 13:43:35.000 V/webkit  ( 3618): ***loadStarted url=fttp://58.223.251.139:8298/auth?UserID=0510200802805&Action=Login&Mode=MENU.SMG, method=0 is trueHandler (com.routon.webkit.BrowserFrame) {4229bf10}
+07-26 13:43:35.000 I/wukai   ( 3618): clearTextEntry + false
+07-26 13:43:35.000 V/webview ( 3618): hideSoftKeyboardxxxx :
+07-26 13:43:35.000 V/MyMediaPlayer( 3618): call   nativeinit
+07-26 13:43:35.010 D/KM      ( 3618): 111(0x73a33040) finish  (fttp://58.223.251.139:8298/auth?UserID=0510200802805&Action=Login&Mode=MENU.SMG)
+07-26 13:43:35.010 V/chromium( 3618):  WebUrlLoaderClient::didFail 
+07-26 13:43:35.010 V/chromium( 3618): WebResponse createResouseError fttp://58.223.251.139:8298/auth?UserID=0510200802805&Action=Login&Mode=MENU.SMG
+07-26 13:43:35.010 I/browserframe( 3618): getRawResFilename 
+07-26 13:43:35.010 I/browserframe( 3618): 
+07-26 13:43:35.010 I/browserframe( 3618): 
+07-26 13:43:35.010 I/browserframe( 3618): 
+07-26 13:43:35.010 I/browserframe( 3618): <html>
+07-26 13:43:35.010 I/browserframe( 3618): 	<head>
+07-26 13:43:35.010 I/browserframe( 3618): 	<meta name="page-view-size" content="644*534" />
+07-26 13:43:35.010 I/browserframe( 3618): <script language="javascript">
+07-26 13:43:35.010 I/browserframe( 3618): 
+07-26 13:43:35.010 I/browserframe( 3618): 	function bgUrl()
+07-26 13:43:35.010 I/browserframe( 3618): 	{
+07-26 13:43:35.010 I/browserframe( 3618): 		
+07-26 13:43:35.010 I/browserframe( 3618): 		if(!droid.isGaoqing())
+07-26 13:43:35.010 I/browserframe( 3618): 		{
+07-26 13:43:35.010 I/browserframe( 3618): 			document.body.background="file:///android_asset/bg.jpg";
+07-26 13:43:35.010 I/browserframe( 3618): 			console.log("============is not gaoqing==================");
+07-26 13:43:35.010 I/browserframe( 3618): 			
+07-26 13:43:35.010 I/browserframe( 3618): 		}
+07-26 13:43:35.010 I/browserframe( 3618): 		else
+07-26 13:43:35.010 I/browserframe( 3618): 		{
+07-26 13:43:35.010 I/browserframe( 3618): 			droid.leaveGaoqing();
+07-26 13:43:35.010 I/browserframe( 3618): 			//document.body.background="file:///android_asset/error.jpg";
+07-26 13:43:35.010 I/browserframe( 3618): 			console.log("==============is gaoqing=====================");
+07-26 13:43:35.010 I/browserframe( 3618): 		}
+07-26 13:43:35.010 I/browserframe( 3618): 	}	
+07-26 13:43:35.010 I/browserframe( 3618): </script>
+07-26 13:43:35.010 I/browserframe( 3618): 	
+07-26 13:43:35.010 I/browserframe( 3618): 	</head>
+07-26 13:43:35.010 I/browserframe( 3618): 	<body id="bgimage" background="file:///android_asset/bg.jpg" onload="javascipt:bgUrl()">
+07-26 13:43:35.010 I/browserframe( 3618): 	<div align="center" style="left:180; top:135;width:320;height:300; position:absolute" id="errcodeDiv">
+07-26 13:43:35.010 I/browserframe( 3618):  <font color='FFFFFF' size='5'>
+07-26 13:43:35.010 I/browserframe( 3618): 
+07-26 13:43:35.010 I/browserframe( 3618): </font>
+07-26 13:43:35.010 I/browserframe( 3618): 	</div>
+07-26 13:43:35.010 I/browserframe( 3618): 	<script> var errorno=1; </script>
+07-26 13:43:35.010 I/browserframe( 3618): 	<div align="center" style="left:150; top:175;width:360;height:300; position:absolute" id="track"> 
+07-26 13:43:35.010 I/browserframe( 3618): <font color='FFFFFF' size='4'>错误提示：网络连接出现问题，请稍后再试。
+07-26 13:43:35.010 I/browserframe( 3618):   </font></div>
+07-26 13:43:35.010 I/browserframe( 3618):   
+07-26 13:43:35.010 I/browserframe( 3618):   <div style="left:140; top:230;width:400;height:300; position:absolute" id="actionsDiv">
+07-26 13:43:35.010 I/browserframe( 3618): 	
+07-26 13:43:35.010 I/browserframe( 3618): <font color='FFFFFF' size='3'>
+07-26 13:43:35.010 I/browserframe( 3618): 1请按返回按钮退出。
+07-26 13:43:35.010 I/browserframe( 3618): 2请检查网线连接情况。
+07-26 13:43:35.010 I/browserframe( 3618): </font>
+07-26 13:43:35.010 I/browserframe( 3618):   </div>
+07-26 13:43:35.010 I/browserframe( 3618):   
+07-26 13:43:35.010 I/browserframe( 3618): 	<div style="left:278; top:336;width:131;height:39; position:absolute">			
+07-26 13:43:35.010 I/browserframe( 3618): 	 	 	<a href="javascript:pageBack()"> <img width="131" height="39" border="0" src="file:///android_asset/btn_trans.gif" /></a>    
+07-26 13:43:35.010 I/browserframe( 3618): 	</div>	
+07-26 13:43:35.010 I/browserframe( 3618): 	
+07-26 13:43:35.010 I/browserframe( 3618): 	<div style="left:550; top:50; width:90; height:100; position:absolute" id="channelNumber" >
+07-26 13:43:35.010 I/browserframe( 3618): 	</div>
+07-26 13:43:35.010 I/browserframe( 3618): 	
+07-26 13:43:35.010 I/browserframe( 3618): <script language="javascript">
+07-26 13:43:35.010 I/browserframe( 3618): 	console.log(" page error");
+07-26 13:43:35.010 I/browserframe( 3618): 
+07-26 13:43:35.010 I/browserframe( 3618): 
+07-26 13:43:35.010 I/browserframe( 3618): function pageBack()
+07-26 13:43:35.010 I/browserframe( 3618): {
+07-26 13:43:35.010 I/browserframe( 3618): 	droid.browerr();
+07-26 13:43:35.010 I/browserframe( 3618): }	
+07-26 13:43:35.010 I/browserframe( 3618): 	</script>
+07-26 13:43:35.010 I/browserframe( 3618): 	</body>
+07-26 13:43:35.010 I/browserframe( 3618): </html>
+07-26 13:43:35.010 V/webkit  ( 3618): ***loadStarted url=fttp://58.223.251.139:8298/auth?UserID=0510200802805&Action=Login&Mode=MENU.SMG, method=0 is trueHandler (com.routon.webkit.BrowserFrame) {4229bf10}
+07-26 13:43:35.010 I/webkit  ( 3618): =================loadfinish url-->fttp://58.223.251.139:8298/auth?UserID=0510200802805&Action=Login&Mode=MENU.SMG isMainFrame-->true isContentFrame-->false===
+07-26 13:43:35.030 I/WebViewActivity( 3618):    onReceivedError -10 fttp://58.223.251.139:8298/auth?UserID=0510200802805&Action=Login&Mode=MENU.SMG 不支持该协议。
+07-26 13:43:35.030 I/WebViewActivity( 3618): onPageFinished  *0
+07-26 13:43:35.090 I/webcore ( 3618): ===============setPageSize--->644*534==================
+07-26 13:43:35.090 I/webcore ( 3618): =============firstSize-->644
+07-26 13:43:35.110 W/WebViewCore ZOOM( 3618): xzoomfactor:2.0yzoomfactor:1.35
+07-26 13:43:35.110 D/webcoreglue( 3618): WebCoreFrameBridge xzoomfactor:2.000000,yzoomfactor 1.350000
+07-26 13:43:35.120 I/onConsoleMessage( 3618):  page error 56fttp://58.223.251.139:8298/auth?UserID=0510200802805&Action=Login&Mode=MENU.SMG
+07-26 13:43:35.130 W/NULL_TAG( 3618): m_useFixedLayout? 0 visibleWidth:  320,  m_fixedLayoutSize.width:0
+07-26 13:43:35.130 W/NULL_TAG( 3618): m_useFixedLayout? 0 visibleWidth:  320,  m_fixedLayoutSize.width:0
+07-26 13:43:35.130 W/NULL_TAG( 3618): m_useFixedLayout? 0 visibleWidth:  320,  m_fixedLayoutSize.width:0
+07-26 13:43:35.140 I/onConsoleMessage( 3618): ============is not gaoqing================== 16fttp://58.223.251.139:8298/auth?UserID=0510200802805&Action=Login&Mode=MENU.SMG
+07-26 13:43:35.140 W/NULL_TAG( 3618): m_useFixedLayout? 0 visibleWidth:  1280,  m_fixedLayoutSize.width:0
+07-26 13:43:35.140 W/NULL_TAG( 3618): m_useFixedLayout? 0 visibleWidth:  1280,  m_fixedLayoutSize.width:0
+07-26 13:43:35.140 W/NULL_TAG( 3618): m_useFixedLayout? 0 visibleWidth:  1280,  m_fixedLayoutSize.width:0
+07-26 13:43:35.140 I/webkit  ( 3618): =================loadfinish url-->fttp://58.223.251.139:8298/auth?UserID=0510200802805&Action=Login&Mode=MENU.SMG isMainFrame-->true isContentFrame-->false===
+07-26 13:43:35.150 I/WebViewActivity( 3618): onPageFinished  *1
+07-26 13:43:35.150 I/wukai   ( 3618): clearTextEntry + false
+07-26 13:43:35.150 V/webview ( 3618): hideSoftKeyboardxxxx :
+07-26 13:43:35.150 I/wukai   ( 3618): clearTextEnt
